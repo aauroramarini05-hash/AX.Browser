@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!-- Base colors used throughout the UI -->
+    <color name="iconTint">?attr/colorOnSurface</color>
+    <color name="addressBarBackground">#F2F2F2</color>
+    <color name="addressBarStroke">#DDDDDD</color>
+</resources>
